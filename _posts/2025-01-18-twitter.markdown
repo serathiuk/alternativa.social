@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Alternativas ao Twitter/X
+date:   2025-01-18 13:01:25 -0300
+categories: twitter x microblogging mastodon pleroma
+---
+
+A escrever
